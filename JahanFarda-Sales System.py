@@ -68,6 +68,7 @@ def create_Table_Sale():
 
     cnxn.close()
 
+    
 
 
 cnxn = pyodbc.connect('Driver={SQL Server};'
